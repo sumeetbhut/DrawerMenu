@@ -28,11 +28,11 @@ class HomePageState extends State<HomePage> {
   _getDrawerItemWidget(int pos) {
     switch (pos) {
       case 0:
-        return new FirstFragment();
+        return new HomeFragment();
       case 1:
-        return new SecondFragment();
+        return new ProfileFragment();
       case 2:
-        return new ThirdFragment();
+        return new AboutusFragment();
 
       default:
         return new Text("Error");

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class ThirdFragment extends StatelessWidget {
+class AboutusFragment extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build

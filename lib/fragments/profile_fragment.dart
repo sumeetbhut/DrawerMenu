@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class SecondFragment extends StatelessWidget {
+class ProfileFragment extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build

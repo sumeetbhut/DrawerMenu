@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class FirstFragment extends StatelessWidget {
+class HomeFragment extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
